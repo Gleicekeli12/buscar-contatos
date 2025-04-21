@@ -36,7 +36,7 @@ O sistema realiza a busca ignorando diferenças entre letras maiúsculas e minú
 3. Abra o arquivo `index.html` no navegador.
 
 
-<img src="https://github.com/Gleicekeli12/buscar-contatos/blob/main/assets/buscar-contato.PNG?raw=true" alt="buscar-contato" width="450"/>
+<img src="https://github.com/Gleicekeli12/buscar-contatos/blob/main/assets/buscar-contato.PNG?raw=true" alt="buscar-contato" width="900"/>
 
 
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
