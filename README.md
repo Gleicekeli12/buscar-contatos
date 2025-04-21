@@ -36,7 +36,7 @@ O sistema realiza a busca ignorando diferenças entre letras maiúsculas e minú
 3. Abra o arquivo `index.html` no navegador.
 
 
-<img src="https://github.com/Gleicekeli12/conversor-de-moedas/blob/main/img/conversor-de-moedas.PNG?raw=true" alt="pagina-conversor" width="450"/>
+<img src="https://github.com/Gleicekeli12/conversor-de-moedas/blob/main/img/conversor-de-moedas.PNG?raw=true" alt="busca-contato" width="450"/>
 
 
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
