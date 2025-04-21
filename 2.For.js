@@ -20,28 +20,6 @@ const contacts = [
 ];
 
 function search() {
-  //   for (const contact of contacts) {
-  //     if (input.value.toLowerCase() === contact.name.toLowerCase()) {
-  //       p.innerHTML = `Contato Encontrado Nome : ${contact.name} <br> Tel: ${contact.number}`;
-
-  //       break;
-  //     } else {
-  //       p.innerHTML = `Ops contato não encontrado, tente novamente`;
-  //     }
-  //   }
-  // }
-
-  //   for (i = 0; i < contacts.length; i++) {
-  //     if (input.value.toLowerCase() === contacts[i].name.toLowerCase()) {
-  //       p.innerHTML = `Contato Encontrado Nome : ${contacts[i].name} <br> Tel: ${contacts[i].number}`;
-
-  //       break;
-  //     } else {
-  //       p.innerHTML = `Ops contato não encontrado, tente novamente`;
-  //     }
-  //   }
-  // }
-
   let i = 0;
   let found = false;
 
@@ -58,3 +36,25 @@ function search() {
     p.innerHTML = `Ops, contato não encontrado.<br>Tente novamente.`;
   }
 }
+
+//   for (const contact of contacts) {
+//     if (input.value.toLowerCase() === contact.name.toLowerCase()) {
+//       p.innerHTML = `Contato Encontrado Nome : ${contact.name} <br> Tel: ${contact.number}`;
+
+//       break;
+//     } else {
+//       p.innerHTML = `Ops contato não encontrado, tente novamente`;
+//     }
+//   }
+// }
+
+//   for (i = 0; i < contacts.length; i++) {
+//     if (input.value.toLowerCase() === contacts[i].name.toLowerCase()) {
+//       p.innerHTML = `Contato Encontrado Nome : ${contacts[i].name} <br> Tel: ${contacts[i].number}`;
+
+//       break;
+//     } else {
+//       p.innerHTML = `Ops contato não encontrado, tente novamente`;
+//     }
+//   }
+// }
